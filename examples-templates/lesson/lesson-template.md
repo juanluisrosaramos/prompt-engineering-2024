@@ -2,11 +2,7 @@
 
 ## Lesson Overview :pencil2:
 
-[🚨 to be removed, only for SME eyes🚨 - start]
-*The Lesson Overview provides a brief summary of the main topics and themes covered in the lesson. It acts as a roadmap for both instructors and learners, giving them an idea of what to expect.*
-
-*In this lesson, we will delve into [briefly describe the main theme or topic]. Through a combination of theoretical explanations and practical examples, participants will gain a solid understanding of [insert key concepts].*
-[🚨 to be removed, only for SME eyes🚨 - end]
+In this first lesson, **you will learn how to interact with LLMs by the use of prompting** and explore the power of LLMs as a developer tool, that is using API cal to LLMs to quckly build software applications. We will learn to work with the OpenAI API by exploring it's possibilities with the use of prompting best practices. You'll delve into OpenAI's roles and how to provide the necessary instructions to the model through the prompt to make it behave as desired. 
 
 <br>  <!-- don't remove -->
 
@@ -18,11 +14,12 @@
 
 By the end of this lesson, you will be able to:
 
-1. Learning Objective 1 [🚨 Provide a concise statement of the first objective. 🚨]
-2. Learning Objective 2: [🚨 Describe the second objective, ensuring clarity and specificity.🚨]
-3. Learning Objective 3: [🚨 Continue with subsequent objectives, maintaining a logical progression.🚨]
-4. Learning Objective 4: [🚨 Add more objectives if necessary, but keep the total number reasonable.🚨]
-5. Learning Objective 5: [🚨 Finalize the list of objectives, ensuring they align with the overall goals of the lesson.🚨]
+1. Learning Objective 1: Using OpenAI API to prompt the different models
+2. Learning Objective 2: Prompting best practices
+3. Learning Objective 3: Solving common NLP use cases like summarizing, inferring, transforming, expanging...
+4. Learning Objective 4: Zero-shot 
+5. Learning Objective 5: Build a small chatbot 
+6. Learning Objective 5: [🚨 Finalize the list of objectives, ensuring they align with the overall goals of the lesson.🚨]
 
 <br>
 
