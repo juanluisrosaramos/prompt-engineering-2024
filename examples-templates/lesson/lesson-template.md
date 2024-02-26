@@ -23,7 +23,7 @@ By the end of this lesson, you will be able to:
 
 ### Concept 1 Definition of LLMs
 
-()[https://docs.google.com/presentation/d/17Dj-ZzvZHO8_L6uAGgerBOzfbSVzNDgEh5mJk4bFOzA/edit?usp=sharing]
+Open the slides of the lesson | https://docs.google.com/presentation/d/17Dj-ZzvZHO8_L6uAGgerBOzfbSVzNDgEh5mJk4bFOzA/edit?usp=sharing]
 <br>  <!-- don't remove -->
 
 #### Concept 1 Example
