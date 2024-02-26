@@ -2,34 +2,28 @@
 
 ## Lesson Overview :pencil2:
 
-In this first lesson, **you will learn how to interact with LLMs by the use of prompting** and explore the power of LLMs as a developer tool, that is using API cal to LLMs to quckly build software applications. We will learn to work with the OpenAI API by exploring it's possibilities with the use of prompting best practices. You'll delve into OpenAI's roles and how to provide the necessary instructions to the model through the prompt to make it behave as desired. 
+In this first lesson, **you will learn how to interact with LLMs by the use of prompting** and explore the power of LLMs as a developer tool, using API calls to LLMs to quickly build software applications. You'll delve into OpenAI's roles and how to provide the necessary instructions to the model through the use of prompting best practices and make it behave as desired. 
 
 <br>  <!-- don't remove -->
 
 ## Learning Objectives :notebook:
 
-[🚨 to be removed, only for SME eyes🚨 - start]
-*Learning Objectives clearly define the specific skills or knowledge that participants should acquire by the end of the lesson. These objectives serve as measurable outcomes and guide the development of lesson content. All learning objectives should start with some verb (action). Check the pdf "Blooms Taxonomy Handout" to learn more about this.*
-[🚨 to be removed, only for SME eyes🚨 - end]
-
 By the end of this lesson, you will be able to:
 
 1. Learning Objective 1: Using OpenAI API to prompt the different models
 2. Learning Objective 2: Prompting best practices
-3. Learning Objective 3: Solving common NLP use cases like summarizing, inferring, transforming, expanging...
-4. Learning Objective 4: Zero-shot 
+3. Learning Objective 3: Solving common NLP tasks like summarizing, inferring, transforming, expanding...
+4. Learning Objective 4: Learn the difference between Zero-shot learning and few-shot prompting
 5. Learning Objective 5: Build a small chatbot 
-6. Learning Objective 5: [🚨 Finalize the list of objectives, ensuring they align with the overall goals of the lesson.🚨]
+
 
 <br>
 
 ## Key Definitions and Examples :key:
 
-### Concept 1 Definition
+### Concept 1 Definition of LLMs
 
-[🚨 to be removed, only for SME eyes🚨 - start]
-[*Define the first concept in clear and straightforward language. Use this section to provide the foundational knowledge necessary for understanding the examples.*]
-[🚨 to be removed, only for SME eyes🚨 - end]
+()[https://docs.google.com/presentation/d/17Dj-ZzvZHO8_L6uAGgerBOzfbSVzNDgEh5mJk4bFOzA/edit?usp=sharing]
 <br>  <!-- don't remove -->
 
 #### Concept 1 Example
